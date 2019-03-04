@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-# Project 3 - Twitter
+# Twitter - Part I 
 
 Twitter is a basic twitter app to read your tweets.
 
